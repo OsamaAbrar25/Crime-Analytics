@@ -7,3 +7,9 @@ allocation. This project analyzes a dataset of murder victims in India from 2001
 which details victim counts across states, years, genders, and age groups. By integrating data cleaning,
 exploratory data analysis (EDA), and machine learning, we aim to uncover trends and develop predictive models
 to enhance crime analysis.
+
+👉 I cleaned the data: Imputed NULL with zeros and dropped redundant columns for accuracy.
+👉 I explored patterns: Found 32,000 yearly victims, with Uttar Pradesh and Bihar leading (70% of cases).
+👉 I uncovered trends (EDA): Noted a 2:1 male-to-female ratio and 18–30 age group dominance (40%).
+👉 I applied ML models: Achieved 98.55% accuracy with Random Forest and 83.12% R-squared with SVR.
+👉 I visualized results: Plotted matrices and scatters, showing minimal errors.
